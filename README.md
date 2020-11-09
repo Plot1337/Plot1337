@@ -1,5 +1,5 @@
 ## 👋 Hi there
-I am a self-thought, full-stack web developer, and .NET desktop developer.
+I am a self-taught, full-stack web developer, and .NET desktop developer.
 ## 📫 Contact Me
 Discord: Plot#1337
 #
